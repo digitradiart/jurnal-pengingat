@@ -3,5 +3,8 @@
 Hopefully, it will be useful for readers. We really need constructive criticism and suggestions.  
 Thanks for reading.  
 
-// Illustrator: Adwind Abrar a.k.a @egg_winner 
+// Illustrator: Adwind Abrar a.k.a @egg_winner
 // Author: Ayu Agustina a.k.a @digitradiart
+
+
+Flip book using turn.js
