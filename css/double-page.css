@@ -1,5 +1,6 @@
 /* Basic sample */
-@import url("https://fonts.googleapis.com/css2?family=Beth+Ellen&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Beth+Ellen&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Beth+Ellen&family=Comforter+Brush&family=Walter+Turncoat&display=swap");
 
 body {
   overflow: hidden;
@@ -10,7 +11,9 @@ body {
   background-color: #362f2e;
   background-image: url("https://www.transparenttextures.com/patterns/dark-wood.png");
   /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
-  font-family: "Beth Ellen", cursive;
+  /* font-family: 'Beth Ellen', cursive; */
+  /* font-family: "Comforter Brush", cursive; */
+  font-family: "Walter Turncoat", cursive;
 }
 
 body a {
